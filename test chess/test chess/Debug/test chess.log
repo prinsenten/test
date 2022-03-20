@@ -1,0 +1,10 @@
+﻿  test.c
+D:\vs2019\test chess\test chess\test.c(14,17): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+D:\vs2019\test chess\test chess\test.c(15,20): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+D:\vs2019\test chess\test chess\test.c(18,19): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+D:\vs2019\test chess\test chess\test.c(19,21): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+D:\vs2019\test chess\test chess\test.c(20,20): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+D:\vs2019\test chess\test chess\test.c(25,21): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+D:\vs2019\test chess\test chess\test.c(26,21): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+D:\vs2019\test chess\test chess\test.c(27,20): warning C4133: “函数”: 从“int [3][3]”到“char (*)[3]”的类型不兼容
+  test chess.vcxproj -> D:\vs2019\test chess\Debug\test chess.exe
