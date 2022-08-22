@@ -1,0 +1,5 @@
+﻿  workerManger.cpp
+D:\vs2019\test7_20_2\test7_20_2\workerManger.cpp(311,5): warning C4060: switch 语句没有包含“case”或“default”标签
+  职工管理系统.cpp
+  正在生成代码...
+  test7_20_2.vcxproj -> D:\vs2019\test7_20_2\Debug\test7_20_2.exe

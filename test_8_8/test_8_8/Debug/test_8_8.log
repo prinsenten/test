@@ -1,0 +1,5 @@
+﻿  queue.c
+  test.c
+  正在生成代码...
+Debug\test.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  test_8_8.vcxproj -> D:\vs2019\test_8_8\Debug\test_8_8.exe

@@ -1,0 +1,15 @@
+﻿“test7-4.exe”(Win32): 已加载“D:\vs2019\test7-4\Debug\test7-4.exe”。已加载符号。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\ntdll.dll”。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel32.dll”。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\KernelBase.dll”。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcp140d.dll”。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\vcruntime140d.dll”。已加载符号。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\ucrtbased.dll”。已加载符号。
+线程 0x4c54 已退出，返回值为 0 (0x0)。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\sechost.dll”。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\rpcrt4.dll”。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\kernel.appcore.dll”。
+“test7-4.exe”(Win32): 已加载“C:\Windows\SysWOW64\msvcrt.dll”。
+线程 0x4d30 已退出，返回值为 0 (0x0)。
+线程 0x3e64 已退出，返回值为 0 (0x0)。
+程序“[14708] test7-4.exe”已退出，返回值为 0 (0x0)。

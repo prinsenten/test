@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>D:\vs2019\test_game2\Debug\test_game2.exe</FullPath>
+      <FullPath>D:\vs2019\test_c\test_game2\Debug\test_game2.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

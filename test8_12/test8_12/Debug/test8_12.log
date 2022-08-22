@@ -1,0 +1,9 @@
+﻿  test.c
+D:\vs2019\test8_12\test8_12\test.c(17,10): warning C4477: “scanf_s”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“char *”
+D:\vs2019\test8_12\test8_12\test.c(17,10): message : 请考虑在格式字符串中使用“%hhd”
+D:\vs2019\test8_12\test8_12\test.c(18,15): warning C4047: “==”:“int”与“char [2]”的间接级别不同
+D:\vs2019\test8_12\test8_12\test.c(39,19): warning C4047: “=”:“BiTNode *”与“BiTNode **”的间接级别不同
+D:\vs2019\test8_12\test8_12\test.c(57,10): warning C4047: “return”:“BiTree *”与“BiTree”的间接级别不同
+D:\vs2019\test8_12\test8_12\test.c(64,22): warning C4047: “return”:“BiTree *”与“BiTNode *”的间接级别不同
+D:\vs2019\test8_12\test8_12\test.c(117,9): warning C4101: “T”: 未引用的局部变量
+  test8_12.vcxproj -> D:\vs2019\test8_12\Debug\test8_12.exe

@@ -1,0 +1,3 @@
+﻿  workManager.cpp
+D:\vs2019\test7-4\test7-4\workManager.cpp(409,5): warning C4060: switch 语句没有包含“case”或“default”标签
+  test7-4.vcxproj -> D:\vs2019\test7-4\Debug\test7-4.exe
